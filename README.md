@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Slovencina](https://img.shields.io/badge/SK-Sloven%C4%8Dina-30363d?style=for-the-badge)](README.sk.md) [![English](https://img.shields.io/badge/EN-English-2ea043?style=for-the-badge)](README.md)
+
+</div>
+
 # GLOWORM — Neon Arena 🐍✨
 
 Real-time multiplayer snake arena in the browser. Collect glowing orbs, outgrow rivals, and survive the void.
